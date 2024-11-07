@@ -1,0 +1,17 @@
+Funciones Requeridas por la práctica
+
+- Contiene imagen de fondo
+- Existe Párrafo con fórmula E=mc2
+- Texto de extensión suficiente para necesidad de scroll
+- Enlace "Ver fuente" al final de la página
+- Enlace retorno "Volver a la fórmula"
+- Enlace de envío de correo electrónico
+
+
+
+Funciones Adicionales
+
+- Fórmula E=mc2 clicable con enlace a la interpretación de la fórmula
+- Imagenes clicables, redirigen a otra pestaña con la propia imagen en grande
+- Pie de foto
+- Icono de página web
